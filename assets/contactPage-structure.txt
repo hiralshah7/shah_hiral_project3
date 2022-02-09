@@ -1,0 +1,40 @@
+Contact Page : 
+
+Basic Static structure : 
+list of elements: 
+
+no header/logo on top right
+
+contact us in greater font-size 
+below that:
+
+input form : 
+
+first name 
+last name 
+email 
+message
+
+
+button: 
+send
+
+footer: 
+
+Sizing-structure: [ sizing is still not fixed so currently making it as per the project ] 
+
+for text: line-height: 100px;
+	margin: 2px
+	margin-bottom: 20px;
+
+logo: in circular shape
+
+padding: 10-15px in main 
+
+font-size for " contact us " -- 25px;
+
+
+
+
+
+

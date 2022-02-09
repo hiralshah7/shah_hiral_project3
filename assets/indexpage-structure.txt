@@ -1,0 +1,24 @@
+Home Page Structure : 
+
+
+Header Section: 
+Nav Bar: 
+sizing:
+column 
+    float-left;
+    width-33.33%;
+    padding for bottom- 17px;
+    margin-left: 20px
+
+
+body section : 
+there will be 6 products
+presenting vertically 
+
+news-letter: 
+subscribe to our news letter section above footer
+
+footer-section: 
+same as contact page/ having icons for social media and rest of the links.
+
+
